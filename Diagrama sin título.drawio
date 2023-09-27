@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T21:15:05.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9Ah1JaHvAigY91ATW9V1" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T00:53:54.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5rJvz0IzHoVmfgMCXvXf" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="880" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -94,12 +94,29 @@
         <mxCell id="oLWAqpKavaJuwqKOd3UO-102" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="oLWAqpKavaJuwqKOd3UO-1">
           <mxGeometry x="510" y="715" width="190" height="145" as="geometry" />
         </mxCell>
+        <mxCell id="oLWAqpKavaJuwqKOd3UO-113" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="oLWAqpKavaJuwqKOd3UO-1">
+          <mxGeometry y="890" width="840" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oLWAqpKavaJuwqKOd3UO-122" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;direction=north;" vertex="1" parent="oLWAqpKavaJuwqKOd3UO-1">
+          <mxGeometry x="410" y="895" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="TMtLFZNBPKc2YsIcEK0i-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reproducción de su ultimo lanzamiento&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oLWAqpKavaJuwqKOd3UO-1">
+          <mxGeometry x="600" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="oLWAqpKavaJuwqKOd3UO-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="40" y="-360" width="440" height="260" as="geometry" />
         </mxCell>
         <mxCell id="oLWAqpKavaJuwqKOd3UO-101" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="425" y="270" width="50" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uzVRBDVp-fjmpZs8PfGo" name="Página-2">
+    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
