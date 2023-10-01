@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T00:04:01.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9dp4KCQ8n6WurLEs-dG1" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-01T14:54:22.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3ekQszXZJ5mNQeHJg0H6" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="880" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="GZ3B1np0NIJhBAgn1uKr-67" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Foto&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="-245" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDrh4VpErKmEzHL8zEvU-1" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;- El cliente es un cantante que quiere presentar su gira mundial. La idea inicial es que; a través de esta página web pueda llegar a distintos rangos etarios de personas, para que puedan conocer su trayectoria, así como también su música. Y en caso de interesarles, darle la posibilidad de acceder a las entradas para dicha gira mundial.&lt;br&gt;- Esta página web estará compuesta por cuatro secciones; sus inicios en la música, material discográfico, noticias en referencia a sus shows y redes sociales ya que también son exponentes de su contenido artístico.&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1780" width="840" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
